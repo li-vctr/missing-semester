@@ -1,0 +1,1 @@
+/home/vhl2022/.dotfiles/.bashrc
